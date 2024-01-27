@@ -1,4 +1,6 @@
-# uas-pemograman2
+UAS WEB PEMOGRAMAN
+RIFKI ARIF RAHMAN
+I.2210002
 
 
 1. {
@@ -54,6 +56,7 @@ jenis-jenis:
 - Travis CI
 - GitHub Actions
 
-7.
+7. https://github.com/rifki227/my-app.git
+   https://rifki227.github.io/my-app/
 
  
